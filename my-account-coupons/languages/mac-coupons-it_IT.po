@@ -1,0 +1,35 @@
+msgid "My Coupons"
+msgstr "I miei coupon"
+
+msgid "These coupons are assigned to your account. Copy and apply them at checkout."
+msgstr "Questi coupon sono assegnati al tuo account. Copiali e usali al checkout."
+
+msgid "Coupon Code"
+msgstr "Codice coupon"
+
+msgid "Discount"
+msgstr "Sconto"
+
+msgid "Expires"
+msgstr "Scadenza"
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "Copy"
+msgstr "Copia"
+
+msgid "Copied"
+msgstr "Copiato"
+
+msgid "No expiry"
+msgstr "Nessuna scadenza"
+
+msgid "No coupons assigned to your account."
+msgstr "Nessun coupon assegnato al tuo account."
+
+msgid "%s%% off"
+msgstr "%s%% di sconto"
+
+msgid "%s off"
+msgstr "%s di sconto"
